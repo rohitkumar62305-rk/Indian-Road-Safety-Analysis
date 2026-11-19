@@ -58,6 +58,8 @@ This project demonstrates how data analytics tools can transform raw road safety
 
 Author
 
+Rohit Kumar
+
 Data Analytics Project
 
 Technologies: Excel | Python | SQL | Power BI
